@@ -1,4 +1,4 @@
-package dev.ondra.usuarios_service;
+package dev.ondra.usuarios;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
